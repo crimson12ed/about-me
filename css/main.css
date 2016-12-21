@@ -1,15 +1,17 @@
 body {
 	background-color: #6b92b9;
 }
-
-canvas {
-	z-index: -1;
-	position: fixed;
-	display: block;
+div {
+	background-color: #FCFCFC;
+	padding: 30px;
+}
+header {
+	margin-bottom: 3.125em;
+}
+section {
+	margin-bottom: 3.125em;
 }
 
-div {
-	background-color: #EEE;
-	border: 1px solid aquamarine;
-	padding: 30px;
+li {
+	margin-bottom: 0.5em;
 }
