@@ -1,0 +1,15 @@
+body {
+	background-color: #6b92b9;
+}
+
+canvas {
+	z-index: -1;
+	position: fixed;
+	display: block;
+}
+
+div {
+	background-color: #EEE;
+	border: 1px solid aquamarine;
+	padding: 30px;
+}
